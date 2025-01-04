@@ -8,4 +8,6 @@ Sanken's sales analysis of 17k records across 2016-2020 shows around Rp. 15 bill
 
 ![ERD drawio](https://github.com/user-attachments/assets/aef40be3-75b0-4903-9036-12a896e4d847)
 
-## 
+<center>Sanken Database ERD</center>
+
+## Insights Deep-Dive
