@@ -6,7 +6,7 @@ Sanken, an Indonesian company established in 1996, specializes in selling a vari
 ## Executive Summary
 Sanken's sales analysis of 17k records across 2016-2020 shows an average around Rp. 18 billion each year, with the province of Jakarta and Banten contributing 71% of sales. Refrigerator and Washing Machine account for 70% of sales. Sanken can benefit from expanding top product lines and optimizing bundling to increase customer lifetime value. Targeted growth in DKI Jakarta and Banten province, will reinforce Sanken's market position and drive sustainable growth.
 
-![ERD drawio](https://github.com/user-attachments/assets/aef40be3-75b0-4903-9036-12a896e4d847)
+![ERD drawio (1)](https://github.com/user-attachments/assets/602e372e-7240-4754-affc-60073533893d)
 
 <p align="center"><strong>Sanken Database ERD</strong></p>
 
