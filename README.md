@@ -16,3 +16,6 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Sales surged in 2017 by an astounding 142% and stabilized in the subsequent years, with minor fluctuations.
 - DKI Jakarta and Banten province account for a total of 71% of sales, contributing 39% and 32%, respectively.
 - Customer retention rates remained high, with repeat customers consistently making up a significant portion of the customer base, reaching 100% in 2016 and averaging above 85% in the following years.
+
+  ![image](https://github.com/user-attachments/assets/24b103de-00db-49d7-87b4-593d58907a4a)
+
