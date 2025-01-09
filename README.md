@@ -16,6 +16,13 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Sales surged in 2017 by an astounding 142% and stabilized in the subsequent years, with minor fluctuations.
 - DKI Jakarta and Banten province account for a total of 71% of sales, contributing 39% and 32%, respectively.
 - Customer retention rates remained high, with repeat customers consistently making up a significant portion of the customer base, reaching 100% in 2016 and averaging above 85% in the following years.
+- Seasonality is observed in April, with sales showing a surge across different years.
 
 ![DA](https://github.com/user-attachments/assets/91d9cbae-363e-413a-8fad-1ea9184394d1)
 
+### Key Product Performance
+- Refrigerator, Washing Machine, and Water Dispenser items generate 80% of total revenue.
+- Refrigerator products consistently lead in orders count by 35% and revenue by 42% from 2016 to 2020.
+- Refrigerator and Washing Machine categories experienced remarkable growth with increases of 173% and 214% respectively in 2017.
+
+![image](https://github.com/user-attachments/assets/7ea94dd5-62d3-4f7b-a711-524dec515d21)
