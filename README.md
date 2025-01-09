@@ -25,4 +25,4 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Refrigerator products consistently lead in orders count by 35% and revenue by 42% from 2016 to 2020.
 - Refrigerator and Washing Machine categories experienced remarkable growth with increases of 173% and 214% respectively in 2017.
 
-![image](https://github.com/user-attachments/assets/7ea94dd5-62d3-4f7b-a711-524dec515d21)
+<p align="center"> ![image](https://github.com/user-attachments/assets/7ea94dd5-62d3-4f7b-a711-524dec515d21) </p>
