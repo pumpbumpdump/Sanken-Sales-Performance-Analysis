@@ -24,7 +24,10 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Refrigerator, Washing Machine, and Water Dispenser items generate 82% of total revenue.
 - Refrigerator products consistently lead in orders count by 35% and revenue by 42% from 2016 to 2020.
 - Refrigerator and Washing Machine categories experienced remarkable growth with increases of 173% and 214% respectively in 2017.
-- The Rice Cooker’s order count of 11% nearly doubles its revenue share of 6%, likely due to its low price or frequent inclusion in bundles or promotions, resulting in high sales volume but lower revenue contribution.
+- The Rice Cooker’s order count of 11% is nearly double of its revenue share of 6%, likely due to its low price or frequent inclusion in bundles or promotions, resulting in high sales volume but lower revenue contribution.
 
-![Screenshot 2025-01-09 073245](https://github.com/user-attachments/assets/a54a1d7b-9814-4931-9a0d-34d5b0c25edc)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a54a1d7b-9814-4931-9a0d-34d5b0c25edc" alt="Screenshot 2025-01-09 073245">
+</p>
 
+### Customer Growth and Repeat Purchase Trends
