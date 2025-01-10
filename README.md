@@ -20,7 +20,8 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 
 ![DA](https://github.com/user-attachments/assets/91d9cbae-363e-413a-8fad-1ea9184394d1)
 
-![province_sales_area_chart](https://github.com/user-attachments/assets/aa461535-3465-4615-8c1d-8324816d833f)
+![sales_area_chart_top5](https://github.com/user-attachments/assets/2ce3cee8-3ea4-4be5-b585-3bef6520c014)
+
 
 
 ### Key Product Performance
