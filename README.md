@@ -14,13 +14,14 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 ### Sales Trends and Growth Rates
 - Sanken averages Rp. 18 billion in annual sales and 3400 orders per year.
 - Sales surged in 2017 by an astounding 142% and stabilized in the subsequent years, with minor fluctuations.
-- DKI Jakarta and Banten province account for a total of 71% of sales, contributing 39% and 32%, respectively.
+- DKI Jakarta and Banten province account for a total of 71% of sales, contributing 39% and 32%, respectively. Jawa Barat province follows, contributing 19% of sales.
 - Customer retention rates remained high, with repeat customers consistently making up a significant portion of the customer base, reaching 100% in 2016 and averaging above 85% in the following years.
 - Seasonality is observed in April, with sales showing a surge across different years.
 
 ![DA](https://github.com/user-attachments/assets/91d9cbae-363e-413a-8fad-1ea9184394d1)
 
-![province_sales_area_chart](https://github.com/user-attachments/assets/a5ebd91a-9e46-4e6c-b04d-880e7afe84f5)
+![province_sales_area_chart](https://github.com/user-attachments/assets/aa461535-3465-4615-8c1d-8324816d833f)
+
 
 ### Key Product Performance
 - Refrigerator, Washing Machine, and Water Dispenser items generate 82% of total revenue.
