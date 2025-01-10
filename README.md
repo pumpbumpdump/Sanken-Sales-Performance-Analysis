@@ -20,8 +20,7 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 
 ![DA](https://github.com/user-attachments/assets/91d9cbae-363e-413a-8fad-1ea9184394d1)
 
-![province_sales_area_chart](https://github.com/user-attachments/assets/e2accc1a-18fe-4927-8b9c-51383409358e)
-
+![province_sales_area_chart](https://github.com/user-attachments/assets/a5ebd91a-9e46-4e6c-b04d-880e7afe84f5)
 
 ### Key Product Performance
 - Refrigerator, Washing Machine, and Water Dispenser items generate 82% of total revenue.
