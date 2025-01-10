@@ -7,6 +7,8 @@ Insights and recommendations are provided on the following key areas:
 - Sales Trends Analysis: Evaluation of historical sales patterns, focusing on revenue, order volume, and average order value (AOV).
 - Product Level Performance: An analysis of Sanken's various product lines, understanding their impact on sales and returns.
 - Provincial Comparisons: An evaluation of sales and orders by province
+  
+SQL queries utilized to explore and filter data can be found [here](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/Exploration/sanken_exploration.sql)
 
 ## Executive Summary
 Sanken's sales analysis of 17k records across 2016-2020 shows an average around Rp. 18 billion each year, with the province of Jakarta and Banten contributing 71% of sales. Refrigerator and Washing Machine account for 72% of sales. Sanken can benefit from expanding top product lines and optimizing bundling to increase customer lifetime value. Targeted growth in DKI Jakarta and Banten province, will reinforce Sanken's market position and drive sustainable growth.
