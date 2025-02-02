@@ -41,9 +41,7 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Refrigerator and Washing Machine categories experienced remarkable growth with increases of 173% and 214% respectively in 2017.
 - The Rice Cooker’s order count of 11% is nearly double of its revenue share of 6%, likely due to its low price or frequent inclusion in bundles or promotions, resulting in high sales volume but lower revenue contribution.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a54a1d7b-9814-4931-9a0d-34d5b0c25edc" alt="Screenshot 2025-01-09 073245">
-</p>
+![image](https://github.com/user-attachments/assets/79ea2060-6543-4e6a-98c1-81fbfbe397a8)
 
 ### Customer Growth and Repeat Purchase Trends
 - Unique customers increased significantly by 135% in 2017.
