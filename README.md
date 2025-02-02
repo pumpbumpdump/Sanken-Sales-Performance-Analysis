@@ -49,9 +49,7 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Unique customers increased significantly by 135% in 2017.
 - The repeat rate (≥2 orders) gradually decreases from 93% in 2016 to 78% in 2018, indicating challenges in retaining customers after their initial purchases, increases again to 90% in 2019, suggesting that retention efforts were improved or more customers made repeat purchases during that period.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/26828e91-decd-437c-9ff4-d83155ec928e" alt="Screenshot 2025-01-09 220541">
-</p>
+![image](https://github.com/user-attachments/assets/ce1e7c48-6fa4-4bae-b0f3-5b6204c657d5)
 
 
 ## Recommendations
