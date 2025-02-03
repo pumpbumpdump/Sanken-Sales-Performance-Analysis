@@ -17,7 +17,7 @@ See the data I analyzed in [Excel Workbook](https://github.com/pumpbumpdump/Sank
 ## Executive Summary
 Sanken's sales analysis of 17k records across 2016-2020 shows an average around Rp. 18 billion each year, with the province of Jakarta and Banten contributing 71% of sales. Refrigerator and Washing Machine account for 72% of sales. Sanken can benefit from expanding top product lines and optimizing bundling to increase customer lifetime value. Targeted growth in DKI Jakarta and Banten province, will reinforce Sanken's market position and drive sustainable growth.
 
-![ERD drawio (2)](https://github.com/user-attachments/assets/a020d3df-bf86-41c4-b7f7-9a34123b5999)
+![ERD drawio (3)](https://github.com/user-attachments/assets/a797a25f-b0b8-4a24-8b68-528c5c3ed871)
 
 <p align="center"><strong>Sanken Database ERD</strong></p>
 
