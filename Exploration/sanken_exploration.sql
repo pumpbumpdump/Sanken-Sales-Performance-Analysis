@@ -13,9 +13,9 @@ GROUP BY year
 ORDER BY year DESC;
 
 -- Customers and their sum of spending
-SELECT custName, SUM(qty*perprice) sales
+SELECT customer_id, SUM(qty*perprice) sales
 FROM master_transaksi
-GROUP BY custName
+GROUP BY customer_id
 ORDER BY sales DESC;
 
 -- Customers and their total spending in percentage
@@ -23,17 +23,17 @@ WITH totalsales AS (
 	SELECT SUM(perprice*qty) grand_total
 	FROM master_transaksi)
 
-SELECT custName, ((SUM(perprice*qty)*100)/(SELECT grand_total FROM totalsales)) sales_percentage
+SELECT customer_id, ((SUM(perprice*qty)*100)/(SELECT grand_total FROM totalsales)) sales_percentage
 FROM master_transaksi
-GROUP BY custName
+GROUP BY customer_id
 ORDER BY sales_percentage DESC;
 
 -- Each item type sales
-SELECT p.itemType, SUM(t.perprice*t.qty) sales
+SELECT p.category, SUM(t.perprice*t.qty) sales
 FROM master_transaksi t
-JOIN master_produk p ON t.productName = p.productName
+JOIN master_produk p ON t.product_id = p.product_id
 WHERE YEAR(order_req) = 2016
-GROUP BY p.itemType
+GROUP BY p.category
 ORDER BY sales DESC;
 
 -- Each item type sales in percentage
@@ -41,10 +41,10 @@ WITH totalsales AS (
 	SELECT SUM(perprice*qty) grand_total
 	FROM master_transaksi)
 
-SELECT p.itemType, ((SUM(t.perprice*t.qty)*100)/(SELECT grand_total FROM totalsales)) sales_percentage
+SELECT p.category, ((SUM(t.perprice*t.qty)*100)/(SELECT grand_total FROM totalsales)) sales_percentage
 FROM master_transaksi t
-JOIN master_produk p ON t.productName = p.productName
-GROUP BY p.itemType
+JOIN master_produk p ON t.product_id = p.product_id
+GROUP BY p.category
 ORDER BY sales_percentage DESC;
 
 -- How many unique customers in each province
@@ -60,16 +60,16 @@ WITH totalsales AS (
 
 SELECT c.province, ((SUM(t.perprice*t.qty)*100)/(SELECT grand_total FROM totalsales)) sales_percentage
 FROM master_transaksi t
-JOIN master_customer c ON t.custName = c.custName
+JOIN master_customer c ON t.customer_id = c.customer_id
 GROUP BY c.province
 ORDER BY sales_percentage DESC;
 
 -- Customer retention 
 WITH customer_orders AS (
   SELECT
-    custName AS customer_id,                         
+    customer_id AS customer_id,                         
     EXTRACT(YEAR FROM order_sent) AS purchase_year,   
-    COUNT(orderID) AS order_count                     
+    COUNT(order_id) AS order_count                     
   FROM master_transaksi
   GROUP BY 1, 2                                      
 )
@@ -84,7 +84,6 @@ WHERE purchase_year IS NOT NULL
 GROUP BY 1                                            
 ORDER BY 1;           
 
-
 -- AOV
 SELECT YEAR(order_req) year, ((SUM(qty*perprice))/COUNT(*)) AOV
 FROM master_transaksi
@@ -97,9 +96,9 @@ WITH total_sales AS(
     FROM master_transaksi
     WHERE YEAR(order_req) NOT IN (2015, 2021))
 
-SELECT productName, ROUND((SUM(qty*perprice)*100/(SELECT totalsale FROM total_sales)), 2) sales_pct
+SELECT product_id, ROUND((SUM(qty*perprice)*100/(SELECT totalsale FROM total_sales)), 2) sales_pct
 FROM master_transaksi
-GROUP BY productName
+GROUP BY product_id
 ORDER BY sales_pct DESC;
 
 -- COUNT of Each Item/Product Type
@@ -107,10 +106,10 @@ WITH totalcount AS (
 	SELECT COUNT(*) orderscount
     FROM master_transaksi)
 
-SELECT p.itemType, ROUND((COUNT(p.itemType)*100)/(SELECT orderscount FROM totalcount), 1) countpct
+SELECT p.category, ROUND((COUNT(p.category)*100)/(SELECT orderscount FROM totalcount), 1) countpct
 FROM master_transaksi t
-JOIN master_produk p ON t.productName = p.productName
+JOIN master_produk p ON t.product_id = p.product_id
 WHERE YEAR(order_req) NOT IN (2015, 2021)
-GROUP BY p.itemType
+GROUP BY p.category
 ORDER BY countpct DESC;
 
