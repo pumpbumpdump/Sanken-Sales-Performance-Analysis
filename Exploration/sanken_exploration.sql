@@ -1,3 +1,7 @@
+-- Cleaning the ' marks in customer's name
+UPDATE master_customer
+SET name = REPLACE(REPLACE(name, '"', ''), '''', '');
+
 -- Yearly sales
 SELECT YEAR(order_req) year, SUM(qty*perprice) sales
 FROM master_transaksi
