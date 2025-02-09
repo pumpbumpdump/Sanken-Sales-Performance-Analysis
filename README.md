@@ -31,10 +31,6 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 
 ![DA](https://github.com/user-attachments/assets/91d9cbae-363e-413a-8fad-1ea9184394d1)
 
-![sales_area_chart_top5](https://github.com/user-attachments/assets/2ce3cee8-3ea4-4be5-b585-3bef6520c014)
-
-
-
 ### Key Product Performance
 - Refrigerator, Washing Machine, and Water Dispenser items generate 82% of total revenue.
 - Refrigerator products consistently lead in orders count by 35% and revenue by 42% from 2016 to 2020.
@@ -48,7 +44,6 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - The repeat rate (≥2 orders) gradually decreases from 93% in 2016 to 78% in 2018, indicating challenges in retaining customers after their initial purchases, increases again to 90% in 2019, suggesting that retention efforts were improved or more customers made repeat purchases during that period.
 
 ![image](https://github.com/user-attachments/assets/ce1e7c48-6fa4-4bae-b0f3-5b6204c657d5)
-
 
 ## Recommendations
 - Expand the product range of refrigerators, washing machine, and water dispenser by introducing premium models to cater to a wider range of customer preferences, boosting repeat purchases, and strengthening market positioning.
