@@ -1,4 +1,4 @@
-# Sanken Sales Performance Analysis
+# Sanken Sales and Customer Performance Analysis
 
 ## Project Background
 Sanken, an Indonesian company established in 1996, specializes in selling a variety of electrical appliances. I'm partnering with the Data Scientist to extract insights and deliver recommendations to improve performance across sales, product and marketing teams.
