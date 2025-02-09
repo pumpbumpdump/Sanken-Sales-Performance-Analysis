@@ -8,9 +8,9 @@ Insights and recommendations are provided on the following key areas:
 - Product Level Performance: An analysis of Sanken's various product lines, understanding their impact on sales and returns.
 - Provincial Comparisons: An evaluation of sales and orders by province
   
-See the queries I used to explore and filter data in [SQL File](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/Exploration/sanken_exploration.sql)
+See the dashboard and visualizations I've made in [Tableau](https://public.tableau.com/app/profile/hans.aristo/viz/SankenSalesandCustomerKPIAnalysisVisualization/SalesDashboard)
 
-See the notebook I used for data cleaning, visualization, and analysis in the [Python Jupyter Notebook](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/Exploration/sanken_eda_visualization.ipynb)
+See the queries I used to explore and filter data in [SQL File](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/Exploration/sanken_exploration.sql)
 
 See the data I analyzed in [Excel Workbook](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/Data/data.xlsx)
 
