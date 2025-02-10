@@ -45,10 +45,6 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Unique customers increased significantly by 135% in 2017.
 - The repeat rate (≥2 orders) gradually decreases from 93% in 2016 to 78% in 2018, indicating challenges in retaining customers after their initial purchases, increases again to 90% in 2019, suggesting that retention efforts were improved or more customers made repeat purchases during that period.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ee68e861-4485-4ec7-88a0-c7e3aad3e7b8" alt="Customer Repeat Rate">
-</p>
-
 ## Recommendations
 - Expand the product range of refrigerators, washing machine, and water dispenser by introducing premium models to cater to a wider range of customer preferences, boosting repeat purchases, and strengthening market positioning.
 - Expand acquisition channels to include influencer partnerships, social media, and affiliate programs. Refine Sanken's messaging to attract new customers and re-engage past ones.
