@@ -26,7 +26,6 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - Sanken averages Rp. 18 billion in annual sales and 3400 orders per year.
 - Sales surged in 2017 by an astounding 142% and stabilized in the subsequent years, with minor fluctuations.
 - DKI Jakarta and Banten provinces together account for a substantial 71% of total sales, with contributions of 39% and 32%, respectively. In contrast, sales from Jawa Barat province show a significant decline, contributing only 19% of total sales. The performance in Sumatra Utara is even more subdued, The performance in Sumatra Utara and other regions is even more subdued, accounting for less than 3% of total sales.
-- Customer retention rates remained high, with repeat customers consistently making up a significant portion of the customer base, reaching 100% in 2016 and averaging above 85% in the following years.
 - Seasonality is observed in April, with sales showing a surge across different years.
 
 ![DA](https://github.com/user-attachments/assets/91d9cbae-363e-413a-8fad-1ea9184394d1)
