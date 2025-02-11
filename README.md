@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
   
 See the interactive dashboard and visualizations I've made in [Tableau Public](https://public.tableau.com/app/profile/hans.aristo/viz/SankenSalesandCustomerDashboard/SalesDashboard)
 
-See the queries I used to explore and filter data in [SQL File](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/query.sql)
+See the queries I used to clean, explore and filter data in [SQL File](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/query.sql)
 
 See the data I analyzed in [Excel File](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/Data/data.xlsx)
 
