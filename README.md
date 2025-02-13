@@ -8,7 +8,9 @@ Insights and recommendations are provided on the following key areas:
 - Product Level Performance: An analysis of Sanken's various product lines, understanding their impact on sales and returns.
 - Customer Engagement: Study of customer choices, product preferences, and post-purchase behavior to determine factors influencing loyalty and satisfaction.
   
-See the interactive dashboard and visualizations I've made in [Tableau Public](https://public.tableau.com/app/profile/hans.aristo/viz/SankenSalesandCustomerDashboard/SalesDashboard)
+See the interactive sales dashboard and visualizations I've made in [Sales Dashboard Tableau Public](https://public.tableau.com/app/profile/hans.aristo/viz/SankenSalesandCustomerDashboard/SalesDashboard)
+
+See the interactive customer engagement dashboard and visualizations I've made in [Customer Dashboard Tableau Public](https://public.tableau.com/app/profile/hans.aristo/viz/SankenSalesandCustomerDashboard/CustomerDashboard)
 
 See the queries I used to clean, explore and filter data in [SQL File](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis/blob/main/query.sql)
 
