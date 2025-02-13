@@ -6,7 +6,7 @@ Sanken, an Indonesian company established in 1996, specializes in selling a vari
 Insights and recommendations are provided on the following key areas:
 - Sales Trends Analysis: Evaluation of historical sales patterns, focusing on revenue, order volume, and average order value (AOV).
 - Product Level Performance: An analysis of Sanken's various product lines, understanding their impact on sales and returns.
-- Provincial Comparisons: An evaluation of sales and orders by province
+- Customer Engagement: Study of customer choices, product preferences, and post-purchase behavior to determine factors influencing loyalty and satisfaction.
   
 See the interactive dashboard and visualizations I've made in [Tableau Public](https://public.tableau.com/app/profile/hans.aristo/viz/SankenSalesandCustomerDashboard/SalesDashboard)
 
