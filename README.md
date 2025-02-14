@@ -39,7 +39,7 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - The Rice Cooker’s order count of 11% is nearly double of its revenue share of 6%, likely due to its low price or frequent inclusion in bundles or promotions, resulting in high sales volume but lower revenue contribution.
 
 ![treemap](https://github.com/user-attachments/assets/8b28f265-91c8-41db-bbd7-b497121ece72)
-
+<p align="center"><strong>Product Performance Treemap</strong></p>
 
 ### Customer Growth and Repeat Purchase Trends
 - Unique customers increased significantly by 248% in 2017.
