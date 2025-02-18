@@ -50,7 +50,7 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aac42604-2285-4570-aa07-71b7dfe7cc0e" alt="Repeat Rate">
 </p>
-
+<p align="center"><strong>Customer Retention Table</strong></p>
 
 ## Recommendations
 - Expand the product range of refrigerators, washing machine, and water dispenser by introducing premium models to cater to a wider range of customer preferences, boosting repeat purchases, and strengthening market positioning.
