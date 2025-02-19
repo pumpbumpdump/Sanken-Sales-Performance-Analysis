@@ -48,7 +48,7 @@ Sanken's sales analysis of 17k records across 2016-2020 shows an average around 
 - The repeat rate (≥2 orders) decreases due to the introduction of 248% increase of unique customers in 2017 compared to 2016. Furthermore, repeat rate gradually decreases from 86% in 2017 to 78% in 2018, indicating challenges in retaining customers after their initial purchases, increases again to 90% in 2019, suggesting that retention efforts were improved or more customers made repeat purchases during that period.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aac42604-2285-4570-aa07-71b7dfe7cc0e" alt="Repeat Rate">
+  <img src="https://github.com/user-attachments/assets/ffb2890b-7144-48f6-ae66-6edd26f315fa" alt="Repeat Rate">
 </p>
 <p align="center"><strong>Customer Retention Table</strong></p>
 
